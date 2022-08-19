@@ -1,6 +1,5 @@
-"""
-@author: Prahat Kumar Singh
-"""
+##author: Prahat Kumar Singh
+
 
 import glassdoor_scraper as gs 
 import pandas as pd 
